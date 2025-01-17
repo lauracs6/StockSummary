@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class StockSummary {
+public class StockList {
 
     public static String stockSummary(String[] stockList, String[] categories) {    
         // Verificar si la lista de existencias o la lista de categorías están vacías o nulas
